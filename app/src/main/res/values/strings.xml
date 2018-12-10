@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Email BETA</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Columbia College Vet</string>
+    <string name="nav_header_subtitle">juan.montenegro@loop.colum.edu</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="sender">Sender</string>
+    <string name="subject">Subject</string>
+    <string name="body">Body</string>
+    <string name="_11_45pm">11:45PM</string>
+    <string name="message_star">message star</string>
+    <string name="message_icon">Message icon</string>
+</resources>
